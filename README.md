@@ -1,12 +1,4 @@
 # HoneyFL
->>>>>>> 3dc857a9d50fe4cfea45b6478e8b3982a0caeb05
-HoneyFL/
-├── honeyfl/
-│   ├── data/           # Data loading and processing
-│   ├── models/         # Model architectures
-│   ├── utils/          # Utility functions
-│   └── main_fed.py     # Main training script
-└── README.md
 
 ## Quick Start
 To quickly run HoneyFL, follow these steps:
@@ -44,3 +36,11 @@ HoneyFL implements a novel honeypot-based defense mechanism that:
 - Detection Success Rate (DSR)
 - False Positive Rate (FPR)
 =======
+
+HoneyFL/
+├── honeyfl/
+│   ├── data/           # Data loading and processing
+│   ├── models/         # Model architectures
+│   ├── utils/          # Utility functions
+│   └── main_fed.py     # Main training script
+└── README.md
