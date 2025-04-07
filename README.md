@@ -37,10 +37,10 @@ HoneyFL implements a novel honeypot-based defense mechanism that:
 - False Positive Rate (FPR)
 =======
 
-HoneyFL/
-├── honeyfl/
-│   ├── data/           # Data loading and processing
-│   ├── models/         # Model architectures
-│   ├── utils/          # Utility functions
-│   └── main_fed.py     # Main training script
+HoneyFL/  \
+├── honeyfl/  \
+│   ├── data/            # Data loading and processing  \
+│   ├── models/  \         # Model architectures  \
+│   ├── utils/  \          # Utility functions  \
+│   └── main_fed.py  \     # Main training script  \
 └── README.md
