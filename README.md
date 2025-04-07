@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# HoneyFL
+>>>>>>> 3dc857a9d50fe4cfea45b6478e8b3982a0caeb05
 HoneyFL/
 ├── honeyfl/
 │   ├── data/           # Data loading and processing
@@ -6,6 +7,24 @@ HoneyFL/
 │   ├── utils/          # Utility functions
 │   └── main_fed.py     # Main training script
 └── README.md
+
+## Quick Start
+To quickly run HoneyFL, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/HoneyFL.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd HoneyFL
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the main training script:
+   ```bash
+   python honeyfl/main_fed.py
 
 ## Features in Detail
 
@@ -25,5 +44,3 @@ HoneyFL implements a novel honeypot-based defense mechanism that:
 - Detection Success Rate (DSR)
 - False Positive Rate (FPR)
 =======
-# HoneyFL
->>>>>>> 3dc857a9d50fe4cfea45b6478e8b3982a0caeb05
